@@ -1,7 +1,7 @@
 # Lab-3-Railway-Reservation
 
-## NAME : SUBASH M 
-## REG_NO : 212224220109
+## NAME : BHARANIDHARAN R
+## REG_NO : 212224110012
 
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
